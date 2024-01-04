@@ -81,7 +81,7 @@
 <p class="text-center display-6">Grazie per averci inviato la Sua richiesta</p>
 <p class="text-center text-secondary">La contatteremo al più presto. Noi di All Time Vacations siamo specialisti nell’ organizzare in modo efficiente, ospitale ed indimenticabile i Vostri viaggi. I nostri itinerari innovativi, la nostra estesa rete di agenzie ed i suggerimenti dei clienti che hanno in precedenza viaggiato con noi, ci hanno fatto crescere. Il nostro servizio clienti è attivo 24 su 24, 7 giorni su 7 +39 351 8664836, siamo in grado di supportarvi in ogni momento con tutte le informazioni e l'assistenza di cui necessitate. Cordiali Saluti,<br>
 All Time Vacations</p>
-<a href=index.php><button class="btn read-more-btn book-btn theme-btn btn-sm p-1 mx-auto d-block"> Back</button>
+<a href=index.html><button class="btn read-more-btn book-btn theme-btn btn-sm p-1 mx-auto d-block"> Back</button>
 </a>
 </div>
 </div>
